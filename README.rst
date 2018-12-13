@@ -4,7 +4,7 @@
 
 | Introduce, a Content Management System Website
 
-| Please see the `license agreement <https://github.com/rickykusriana/MilarianCMS/license.rst>`_.
+| Please see the `license agreement <https://github.com/rickykusriana/MilarianCMS/blob/master/license.rst>`_.
 
 *******************
 List of websites that use MilarianCMS
