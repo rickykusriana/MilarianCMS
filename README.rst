@@ -10,7 +10,8 @@
 List of websites that use MilarianCMS
 *******************
 
-- KodoKode - https://kodokode.com
+- KodoKode - http://kodokode.com
 - Cendana Solusindo - http://cendanasolusindo.co.id
 - OzoneGroup - http://ozonegroup.co.id
 - Clicon Official Site - http://myclicon.com
+- IBSLink - https://ibslink.ibstower.com
