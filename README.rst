@@ -2,9 +2,10 @@
 # MilarianCMS
 ###################
 
-| Introduce, a Content Management System Website
+| Introduce, a Content Management System Website for company, business or personal needs.
 
-| Please see the `license agreement <https://github.com/rickykusriana/MilarianCMS/blob/master/license.rst>`_.
+| Interested for creating a similar website? Feel free to `contact us <https://wa.me/6282240676507?text=Hello%2C%20I%20want%20to%20have%20website>`_
+
 
 *******************
 List of websites that use MilarianCMS
